@@ -1,0 +1,5 @@
+bin/
+.settings/
+*.html
+input.txt
+.Rhistory
